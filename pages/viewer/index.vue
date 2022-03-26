@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import viewer from "@/components/viewer";
+import viewer from "@/components/Viewer/Index.vue";
 import dialogImageUrl from "@/assets/img/view.jpg";
 export default {
   components: {
